@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace HenabiAPI.Models.Enums
+{
+    public enum CardColor
+    {
+        White,
+        Blue,
+        Yellow,
+        Red,
+        Green
+    }
+}
